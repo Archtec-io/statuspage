@@ -9,8 +9,6 @@ sites:
   #  check: "udp-ping" # doesn't exist :\
   - name: Mapserver
     url: https://archmap.niklp.net/
-    expectedStatusCodes:
-      - 503
   - name: Website
     url: https://archtec.niklp.net/
   - name: Matterbridge (Chatbridge)
