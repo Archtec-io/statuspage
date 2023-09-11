@@ -17,10 +17,10 @@ sites:
 
 status-website:
   baseUrl: /statuspage
-  logoUrl: https://raw.githubusercontent.com/Archtec-io/statuspage/master/favicon.ico
+  logoUrl: https://raw.githubusercontent.com/Archtec-io/statuspage/master/favicon.png
   theme: night
   name: Archtec statuspage
-  introTitle: "Statuspage of the **Archtec** minetest server. Main website [https://archtec.niklp.net](https://archtec.niklp.net/)"
+  introMessage: "Statuspage of the **Archtec** minetest server. Main website [https://archtec.niklp.net](https://archtec.niklp.net/)"
   robotsText: "User-agent: * \n Disallow: /"
   navbar:
     - title: Status
