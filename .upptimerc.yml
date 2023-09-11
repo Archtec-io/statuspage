@@ -9,15 +9,19 @@ sites:
   #  check: "udp-ping" # doesn't exist :\
   - name: Mapserver
     url: https://archmap.niklp.net/
+    icon: https://raw.githubusercontent.com/Archtec-io/statuspage/master/archtec.png
+    maxResponseTime: 5000
   - name: Website
     url: https://archtec.niklp.net/
+    maxResponseTime: 5000
   - name: Matterbridge (Chatbridge)
     url: http://niklp.net
     port: $MATTERBRIDGE_PORT
+    maxResponseTime: 5000
 
 status-website:
   baseUrl: /statuspage
-  logoUrl: https://raw.githubusercontent.com/Archtec-io/statuspage/master/favicon.png
+  logoUrl: https://raw.githubusercontent.com/Archtec-io/statuspage/master/archtec.png
   theme: night
   name: Archtec statuspage
   introMessage: "Statuspage of the **Archtec** minetest server. Main website [https://archtec.niklp.net](https://archtec.niklp.net/)"
