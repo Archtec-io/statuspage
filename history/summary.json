@@ -4,18 +4,20 @@
     "url": "https://archmap.niklp.net/",
     "icon": "https://raw.githubusercontent.com/Archtec-io/statuspage/master/archtec.png",
     "slug": "mapserver",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 686,
-    "timeDay": 576,
-    "timeWeek": 686,
-    "timeMonth": 686,
-    "timeYear": 686,
-    "dailyMinutesDown": {}
+    "time": 666,
+    "timeDay": 562,
+    "timeWeek": 666,
+    "timeMonth": 666,
+    "timeYear": 666,
+    "dailyMinutesDown": {
+      "2023-09-13": 0
+    }
   },
   {
     "name": "Website",
