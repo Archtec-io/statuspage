@@ -18,7 +18,9 @@ sites:
     url: http://niklp.net
     port: $MATTERBRIDGE_PORT
     maxResponseTime: 5000
-
+  - name: Freemyip (DynDns)
+    url: https://freemyip.com/
+    maxResponseTime: 5000
 status-website:
   baseUrl: /statuspage
   logoUrl: https://raw.githubusercontent.com/Archtec-io/statuspage/master/archtec.png
