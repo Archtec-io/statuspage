@@ -1,5 +1,23 @@
 [
   {
+    "name": "Archtec",
+    "url": "https://archtec.niklp.net/atcheck",
+    "icon": "https://raw.githubusercontent.com/Archtec-io/statuspage/master/archtec.png",
+    "slug": "archtec",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 658,
+    "timeDay": 658,
+    "timeWeek": 658,
+    "timeMonth": 658,
+    "timeYear": 658,
+    "dailyMinutesDown": {}
+  },
+  {
     "name": "Mapserver",
     "url": "https://archmap.niklp.net/",
     "icon": "https://raw.githubusercontent.com/Archtec-io/statuspage/master/archtec.png",
@@ -10,11 +28,11 @@
     "uptimeWeek": "99.92%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.92%",
-    "time": 597,
-    "timeDay": 674,
-    "timeWeek": 597,
-    "timeMonth": 597,
-    "timeYear": 597,
+    "time": 596,
+    "timeDay": 628,
+    "timeWeek": 596,
+    "timeMonth": 596,
+    "timeYear": 596,
     "dailyMinutesDown": {
       "2023-09-13": 7
     }
@@ -30,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 727,
-    "timeDay": 830,
-    "timeWeek": 727,
-    "timeMonth": 727,
-    "timeYear": 727,
+    "time": 679,
+    "timeDay": 487,
+    "timeWeek": 679,
+    "timeMonth": 679,
+    "timeYear": 679,
     "dailyMinutesDown": {}
   },
   {
@@ -43,19 +61,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/niklp.net.ico",
     "slug": "matterbridge-chatbridge",
     "status": "up",
-    "uptime": "99.92%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.92%",
-    "time": 849,
-    "timeDay": 927,
-    "timeWeek": 849,
-    "timeMonth": 849,
-    "timeYear": 849,
-    "dailyMinutesDown": {
-      "2023-09-17": 6
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 862,
+    "timeDay": 954,
+    "timeWeek": 862,
+    "timeMonth": 862,
+    "timeYear": 862,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Freemyip (DynDns)",
@@ -68,11 +84,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 394,
-    "timeDay": 243,
-    "timeWeek": 394,
-    "timeMonth": 394,
-    "timeYear": 394,
+    "time": 389,
+    "timeDay": 303,
+    "timeWeek": 389,
+    "timeMonth": 389,
+    "timeYear": 389,
     "dailyMinutesDown": {}
   }
 ]
