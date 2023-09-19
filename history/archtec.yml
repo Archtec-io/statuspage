@@ -1,7 +1,7 @@
 url: https://archtec.niklp.net/atcheck
-status: up
-code: 200
-responseTime: 455
-lastUpdated: 2023-09-18T23:00:56.373Z
+status: down
+code: 503
+responseTime: 391
+lastUpdated: 2023-09-19T13:28:41.686Z
 startTime: 2023-09-17T14:00:16.478Z
 generator: Upptime <https://github.com/upptime/upptime>
