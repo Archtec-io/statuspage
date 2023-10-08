@@ -5,18 +5,18 @@
     "icon": "https://raw.githubusercontent.com/Archtec-io/statuspage/master/archtec.png",
     "slug": "archtec",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.84%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.97%",
+    "uptimeDay": "99.45%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
     "time": 627,
     "timeDay": 406,
     "timeWeek": 719,
     "timeMonth": 627,
     "timeYear": 627,
     "dailyMinutesDown": {
-      "2023-10-08": 2
+      "2023-10-08": 8
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://raw.githubusercontent.com/Archtec-io/statuspage/master/archtec.png",
     "slug": "mapserver",
     "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "99.96%",
+    "uptimeDay": "99.49%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
     "time": 575,
     "timeDay": 832,
     "timeWeek": 567,
     "timeMonth": 575,
     "timeYear": 575,
     "dailyMinutesDown": {
-      "2023-10-08": 2,
+      "2023-10-08": 7,
       "2023-09-13": 7
     }
   },
@@ -46,18 +46,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/archtec.niklp.net.ico",
     "slug": "website",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.98%",
+    "uptimeDay": "99.53%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 327,
     "timeDay": 94,
     "timeWeek": 117,
     "timeMonth": 327,
     "timeYear": 327,
     "dailyMinutesDown": {
-      "2023-10-08": 1
+      "2023-10-08": 7
     }
   },
   {
@@ -65,19 +65,19 @@
     "url": "http://niklp.net",
     "icon": "https://icons.duckduckgo.com/ip3/niklp.net.ico",
     "slug": "matterbridge-chatbridge",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 984,
-    "timeDay": 1138,
-    "timeWeek": 934,
-    "timeMonth": 984,
-    "timeYear": 984,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.61%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 1079,
+    "timeDay": 2781,
+    "timeWeek": 1371,
+    "timeMonth": 1079,
+    "timeYear": 1079,
     "dailyMinutesDown": {
-      "2023-10-08": 0
+      "2023-10-08": 6
     }
   },
   {
