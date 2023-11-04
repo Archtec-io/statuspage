@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.90%",
-    "time": 629,
-    "timeDay": 735,
-    "timeWeek": 538,
-    "timeMonth": 651,
-    "timeYear": 629,
+    "time": 625,
+    "timeDay": 408,
+    "timeWeek": 529,
+    "timeMonth": 647,
+    "timeYear": 625,
     "dailyMinutesDown": {
       "2023-10-08": 67
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.91%",
-    "time": 605,
-    "timeDay": 701,
-    "timeWeek": 509,
-    "timeMonth": 634,
-    "timeYear": 605,
+    "time": 603,
+    "timeDay": 471,
+    "timeWeek": 510,
+    "timeMonth": 632,
+    "timeYear": 603,
     "dailyMinutesDown": {
       "2023-10-08": 61,
       "2023-09-13": 7
@@ -46,16 +46,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/archtec.niklp.net.ico",
     "slug": "website",
     "status": "up",
-    "uptime": "99.90%",
+    "uptime": "99.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.83%",
-    "uptimeYear": "99.90%",
-    "time": 247,
-    "timeDay": 160,
+    "uptimeYear": "99.91%",
+    "time": 244,
+    "timeDay": 95,
     "timeWeek": 112,
-    "timeMonth": 149,
-    "timeYear": 247,
+    "timeMonth": 148,
+    "timeYear": 244,
     "dailyMinutesDown": {
       "2023-10-08": 73
     }
@@ -71,11 +71,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.94%",
-    "time": 1013,
-    "timeDay": 1314,
-    "timeWeek": 881,
-    "timeMonth": 1030,
-    "timeYear": 1013,
+    "time": 1020,
+    "timeDay": 1497,
+    "timeWeek": 992,
+    "timeMonth": 1047,
+    "timeYear": 1020,
     "dailyMinutesDown": {
       "2023-10-08": 46
     }
