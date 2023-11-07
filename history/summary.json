@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.91%",
-    "time": 624,
-    "timeDay": 456,
-    "timeWeek": 559,
-    "timeMonth": 610,
-    "timeYear": 624,
+    "time": 620,
+    "timeDay": 398,
+    "timeWeek": 535,
+    "timeMonth": 609,
+    "timeYear": 620,
     "dailyMinutesDown": {
       "2023-10-08": 67
     }
@@ -25,16 +25,16 @@
     "icon": "https://raw.githubusercontent.com/Archtec-io/statuspage/master/archtec.png",
     "slug": "mapserver",
     "status": "up",
-    "uptime": "99.91%",
+    "uptime": "99.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.86%",
-    "uptimeYear": "99.91%",
-    "time": 602,
-    "timeDay": 441,
-    "timeWeek": 545,
-    "timeMonth": 632,
-    "timeYear": 602,
+    "uptimeYear": "99.92%",
+    "time": 599,
+    "timeDay": 379,
+    "timeWeek": 520,
+    "timeMonth": 631,
+    "timeYear": 599,
     "dailyMinutesDown": {
       "2023-10-08": 61,
       "2023-09-13": 7
@@ -51,11 +51,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.91%",
-    "time": 241,
+    "time": 238,
     "timeDay": 91,
-    "timeWeek": 121,
+    "timeWeek": 116,
     "timeMonth": 148,
-    "timeYear": 241,
+    "timeYear": 238,
     "dailyMinutesDown": {
       "2023-10-08": 73
     }
@@ -71,11 +71,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.94%",
-    "time": 1017,
-    "timeDay": 671,
-    "timeWeek": 1040,
-    "timeMonth": 1047,
-    "timeYear": 1017,
+    "time": 1012,
+    "timeDay": 654,
+    "timeWeek": 999,
+    "timeMonth": 1045,
+    "timeYear": 1012,
     "dailyMinutesDown": {
       "2023-10-08": 46
     }
