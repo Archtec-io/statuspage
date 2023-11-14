@@ -4,7 +4,7 @@ user-agent: Archtec-io
 
 sites:
   - name: Archtec
-    url: "https://archtec.niklp.net/atcheck"
+    url: "https://archtec.niklp.net/mtalive"
     icon: https://raw.githubusercontent.com/Archtec-io/statuspage/master/archtec.png
     maxResponseTime: 5000
   - name: Mapserver
