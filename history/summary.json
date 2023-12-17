@@ -10,11 +10,11 @@
     "uptimeWeek": "99.73%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.93%",
-    "time": 584,
-    "timeDay": 610,
-    "timeWeek": 578,
-    "timeMonth": 536,
-    "timeYear": 584,
+    "time": 582,
+    "timeDay": 598,
+    "timeWeek": 576,
+    "timeMonth": 531,
+    "timeYear": 582,
     "dailyMinutesDown": {
       "2023-12-16": 27,
       "2023-10-08": 67
@@ -31,11 +31,11 @@
     "uptimeWeek": "99.73%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.93%",
-    "time": 604,
-    "timeDay": 576,
-    "timeWeek": 529,
-    "timeMonth": 615,
-    "timeYear": 604,
+    "time": 628,
+    "timeDay": 1320,
+    "timeWeek": 831,
+    "timeMonth": 696,
+    "timeYear": 628,
     "dailyMinutesDown": {
       "2023-12-16": 27,
       "2023-10-08": 61,
@@ -53,33 +53,13 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
-    "time": 189,
-    "timeDay": 90,
-    "timeWeek": 112,
-    "timeMonth": 110,
-    "timeYear": 189,
+    "time": 188,
+    "timeDay": 129,
+    "timeWeek": 119,
+    "timeMonth": 111,
+    "timeYear": 188,
     "dailyMinutesDown": {
       "2023-10-08": 73
-    }
-  },
-  {
-    "name": "Matterbridge (Chatbridge)",
-    "url": "http://niklp.net",
-    "icon": "https://icons.duckduckgo.com/ip3/niklp.net.ico",
-    "slug": "matterbridge-chatbridge",
-    "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.97%",
-    "time": 969,
-    "timeDay": 729,
-    "timeWeek": 842,
-    "timeMonth": 891,
-    "timeYear": 969,
-    "dailyMinutesDown": {
-      "2023-10-08": 46
     }
   }
 ]
