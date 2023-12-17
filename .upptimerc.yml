@@ -14,13 +14,7 @@ sites:
   - name: Website
     url: https://archtec.niklp.net/
     maxResponseTime: 5000
-  - name: Matterbridge (Chatbridge)
-    url: http://niklp.net
-    port: $MATTERBRIDGE_PORT
-    expectedStatusCodes:
-      - 200
-      - 403
-    maxResponseTime: 5000
+
 status-website:
   baseUrl: /statuspage
   logoUrl: https://raw.githubusercontent.com/Archtec-io/statuspage/master/archtec.png
