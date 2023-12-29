@@ -14,19 +14,15 @@ sites:
   - name: Website
     url: https://archtec.niklp.net/
     maxResponseTime: 5000
+    icon: https://raw.githubusercontent.com/Archtec-io/statuspage/master/archtec.png
 
 status-website:
   baseUrl: /statuspage
   logoUrl: https://raw.githubusercontent.com/Archtec-io/statuspage/master/archtec.png
-  theme: night
-  name: Archtec statuspage
-  introMessage: "Statuspage of the **Archtec** minetest server. Main website [https://archtec.niklp.net](https://archtec.niklp.net/)"
+  theme: dark
+  name: Archtec Statuspage
+  introMessage: "Statuspage of the **Archtec** minetest server."
   robotsText: "User-agent: * \n Disallow: /"
-  navbar:
-    - title: Status
-      href: /
-    - title: Archtec website
-      href: https://archtec.niklp.net/
 
 i18n:
   footer: Powered by [Upptime](https://upptime.js.org)
