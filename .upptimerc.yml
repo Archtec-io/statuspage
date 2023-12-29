@@ -19,9 +19,9 @@ sites:
 status-website:
   baseUrl: /statuspage
   logoUrl: https://raw.githubusercontent.com/Archtec-io/statuspage/master/archtec.png
-  theme: ocean
+  theme: night
   name: Archtec Statuspage
-  introMessage: "Statuspage of the **Archtec** minetest server."
+  introMessage: "Statuspage of the **[Archtec](https://archtec.niklp.net)** minetest server."
   robotsText: "User-agent: * \n Disallow: /"
 
 i18n:
