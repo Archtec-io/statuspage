@@ -5,16 +5,16 @@
     "icon": "https://raw.githubusercontent.com/Archtec-io/statuspage/master/archtec.png",
     "slug": "archtec",
     "status": "up",
-    "uptime": "99.87%",
-    "uptimeDay": "98.88%",
-    "uptimeWeek": "99.84%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.86%",
-    "time": 561,
-    "timeDay": 505,
-    "timeWeek": 508,
-    "timeMonth": 546,
-    "timeYear": 551,
+    "uptime": "99.90%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.87%",
+    "time": 553,
+    "timeDay": 1033,
+    "timeWeek": 1033,
+    "timeMonth": 1033,
+    "timeYear": 581,
     "dailyMinutesDown": {
       "2024-11-20": 16,
       "2024-08-25": 12,
@@ -23,10 +23,7 @@
       "2024-08-08": 26,
       "2024-06-28": 56,
       "2024-06-14": 21,
-      "2024-06-05": 402,
-      "2024-02-24": 20,
-      "2024-01-20": 1,
-      "2023-12-16": 27
+      "2024-06-05": 402
     }
   },
   {
@@ -35,22 +32,20 @@
     "icon": "https://raw.githubusercontent.com/Archtec-io/statuspage/master/archtec.png",
     "slug": "mapserver",
     "status": "up",
-    "uptime": "99.89%",
+    "uptime": "99.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.88%",
-    "time": 569,
-    "timeDay": 435,
-    "timeWeek": 501,
-    "timeMonth": 556,
-    "timeYear": 550,
+    "uptimeYear": "99.89%",
+    "time": 560,
+    "timeDay": 533,
+    "timeWeek": 533,
+    "timeMonth": 533,
+    "timeYear": 571,
     "dailyMinutesDown": {
       "2024-10-11": 171,
       "2024-06-14": 21,
-      "2024-06-05": 402,
-      "2024-01-20": 1,
-      "2023-12-16": 27
+      "2024-06-05": 402
     }
   },
   {
@@ -64,11 +59,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 142,
-    "timeDay": 94,
-    "timeWeek": 110,
-    "timeMonth": 120,
-    "timeYear": 119,
+    "time": 119,
+    "timeDay": 114,
+    "timeWeek": 114,
+    "timeMonth": 114,
+    "timeYear": 123,
     "dailyMinutesDown": {}
   }
 ]
