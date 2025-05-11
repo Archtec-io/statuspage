@@ -4,9 +4,9 @@
     "url": "https://archtec.niklp.net/mtalive",
     "icon": "https://raw.githubusercontent.com/Archtec-io/statuspage/master/archtec.png",
     "slug": "archtec",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.87%",
@@ -16,6 +16,7 @@
     "timeMonth": 597,
     "timeYear": 584,
     "dailyMinutesDown": {
+      "2025-05-11": 0,
       "2025-04-11": 11,
       "2025-03-22": 18,
       "2024-11-20": 16,
@@ -33,9 +34,9 @@
     "url": "https://archmap.niklp.net/",
     "icon": "https://raw.githubusercontent.com/Archtec-io/statuspage/master/archtec.png",
     "slug": "mapserver",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.88%",
@@ -45,6 +46,7 @@
     "timeMonth": 618,
     "timeYear": 582,
     "dailyMinutesDown": {
+      "2025-05-11": 0,
       "2025-04-11": 11,
       "2024-10-11": 171,
       "2024-06-14": 21,
@@ -56,7 +58,7 @@
     "url": "https://archtec.niklp.net/",
     "icon": "https://raw.githubusercontent.com/Archtec-io/statuspage/master/archtec.png",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -68,6 +70,7 @@
     "timeMonth": 141,
     "timeYear": 126,
     "dailyMinutesDown": {
+      "2025-05-11": 0,
       "2025-04-11": 11
     }
   }
