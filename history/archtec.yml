@@ -1,7 +1,7 @@
 url: https://archtec.niklp.net/mtalive
-status: up
-code: 200
-responseTime: 489
-lastUpdated: 2025-08-28T23:15:30.889Z
+status: down
+code: 503
+responseTime: 544
+lastUpdated: 2025-08-29T15:19:20.467Z
 startTime: 2023-09-17T14:00:16.478Z
 generator: Upptime <https://github.com/upptime/upptime>
